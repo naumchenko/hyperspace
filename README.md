@@ -1,4 +1,4 @@
-# hyperscape
+# hyperspace
 
 trunk serve
 
