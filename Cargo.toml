@@ -7,6 +7,6 @@ edition = "2021"
 yew = { version = "0.21", features = ["csr"] }
 wasm-bindgen = "0.2"
 
-web-sys = { version = "0.3.76", features = ["CanvasRenderingContext2d", "HtmlCanvasElement"] }
+web-sys = { version = "0.3.76", features = ["CanvasRenderingContext2d", "HtmlCanvasElement", "HtmlInputElement"] }
 console_error_panic_hook = "0.1"
 rand = "0.8"
